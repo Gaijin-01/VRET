@@ -1,0 +1,182 @@
+[
+  {
+    "episode": "unseen_000",
+    "true_kind": "index_counter",
+    "outcome": "PASS",
+    "kept": true
+  },
+  {
+    "episode": "unseen_001",
+    "true_kind": "affine_ts",
+    "outcome": "PASS",
+    "kept": true
+  },
+  {
+    "episode": "unseen_002",
+    "true_kind": "no_reduction",
+    "outcome": "discovery_falsified",
+    "kept": false
+  },
+  {
+    "episode": "unseen_003",
+    "true_kind": "index_counter",
+    "outcome": "PASS",
+    "kept": true
+  },
+  {
+    "episode": "unseen_004",
+    "true_kind": "affine_ts",
+    "outcome": "PASS",
+    "kept": true
+  },
+  {
+    "episode": "unseen_005",
+    "true_kind": "no_reduction",
+    "outcome": "discovery_falsified",
+    "kept": false
+  },
+  {
+    "episode": "unseen_006",
+    "true_kind": "index_counter",
+    "outcome": "PASS",
+    "kept": true
+  },
+  {
+    "episode": "unseen_007",
+    "true_kind": "affine_ts",
+    "outcome": "PASS",
+    "kept": true
+  },
+  {
+    "episode": "unseen_008",
+    "true_kind": "no_reduction",
+    "outcome": "discovery_falsified",
+    "kept": false
+  },
+  {
+    "episode": "unseen_009",
+    "true_kind": "index_counter",
+    "outcome": "PASS",
+    "kept": true
+  },
+  {
+    "episode": "unseen_010",
+    "true_kind": "affine_ts",
+    "outcome": "PASS",
+    "kept": true
+  },
+  {
+    "episode": "unseen_011",
+    "true_kind": "no_reduction",
+    "outcome": "discovery_falsified",
+    "kept": false
+  },
+  {
+    "episode": "unseen_012",
+    "true_kind": "index_counter",
+    "outcome": "PASS",
+    "kept": true
+  },
+  {
+    "episode": "unseen_013",
+    "true_kind": "affine_ts",
+    "outcome": "PASS",
+    "kept": true
+  },
+  {
+    "episode": "unseen_014",
+    "true_kind": "no_reduction",
+    "outcome": "discovery_falsified",
+    "kept": false
+  },
+  {
+    "episode": "unseen_015",
+    "true_kind": "index_counter",
+    "outcome": "PASS",
+    "kept": true
+  },
+  {
+    "episode": "unseen_016",
+    "true_kind": "affine_ts",
+    "outcome": "PASS",
+    "kept": true
+  },
+  {
+    "episode": "unseen_017",
+    "true_kind": "no_reduction",
+    "outcome": "discovery_falsified",
+    "kept": false
+  },
+  {
+    "episode": "unseen_018",
+    "true_kind": "index_counter",
+    "outcome": "PASS",
+    "kept": true
+  },
+  {
+    "episode": "unseen_019",
+    "true_kind": "affine_ts",
+    "outcome": "PASS",
+    "kept": true
+  },
+  {
+    "episode": "unseen_020",
+    "true_kind": "no_reduction",
+    "outcome": "discovery_falsified",
+    "kept": false
+  },
+  {
+    "episode": "unseen_021",
+    "true_kind": "index_counter",
+    "outcome": "PASS",
+    "kept": true
+  },
+  {
+    "episode": "unseen_022",
+    "true_kind": "affine_ts",
+    "outcome": "PASS",
+    "kept": true
+  },
+  {
+    "episode": "unseen_023",
+    "true_kind": "no_reduction",
+    "outcome": "discovery_falsified",
+    "kept": false
+  },
+  {
+    "episode": "unseen_024",
+    "true_kind": "index_counter",
+    "outcome": "PASS",
+    "kept": true
+  },
+  {
+    "episode": "unseen_025",
+    "true_kind": "affine_ts",
+    "outcome": "PASS",
+    "kept": true
+  },
+  {
+    "episode": "unseen_026",
+    "true_kind": "no_reduction",
+    "outcome": "discovery_falsified",
+    "kept": false
+  },
+  {
+    "episode": "unseen_027",
+    "true_kind": "index_counter",
+    "outcome": "PASS",
+    "kept": true
+  },
+  {
+    "episode": "unseen_028",
+    "true_kind": "affine_ts",
+    "outcome": "PASS",
+    "kept": true
+  },
+  {
+    "episode": "unseen_029",
+    "true_kind": "no_reduction",
+    "outcome": "discovery_falsified",
+    "kept": false
+  }
+]

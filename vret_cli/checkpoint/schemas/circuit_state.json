@@ -1,0 +1,23 @@
+{
+  "circuit_id": "discovery-execution-rci",
+  "best_score": null,
+  "n_iters": 0,
+  "trajectory": [],
+  "frozen_eval": {
+    "metric_name": "pareto_coverage_reduction",
+    "wall_clock_budget_s": 3600,
+    "data_hash": "20b99e39ff57474b",
+    "verifier_code_hash": "d3d26666a91996bb",
+    "MAX_CANDIDATES": 1000000,
+    "MIN_REDUCTION_RATIO": 2.0
+  },
+  "last_kept": false,
+  "flow": {
+    "skill": 0.5,
+    "challenge": 0.5,
+    "adj": "stay"
+  },
+  "boundary_probes": {},
+  "dual_process": "SYSTEM 2",
+  "data_link": "raw_measurements"
+}

@@ -1,0 +1,25 @@
+[build-system]
+# A vendored, stdlib-only PEP 517 backend, so the package builds on a machine
+# with no network and no setuptools installed.
+requires = []
+build-backend = "vret_build"
+backend-path = ["build_backend"]
+
+[project]
+name = "vret-cli"
+version = "0.2.0"
+description = "VRET CLI: stdlib front end for the immutable, verified VRET CUDA/GPU checkpoint"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "VRET contributors" }]
+keywords = ["vret", "cli", "cuda", "gpu", "checkpoint", "reproducibility"]
+dependencies = []
+
+[project.scripts]
+vret = "vret_cli.cli:main"
+vret-cli = "vret_cli.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/Gaijin-01/VRET"
+Repository = "https://github.com/Gaijin-01/VRET"

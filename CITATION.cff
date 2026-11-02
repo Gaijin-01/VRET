@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Please cite this software when using the VRET CLI/CUDA line."
+type: software
+title: "VRET: Verified Reduction & Execution Toolkit (CLI + CUDA checkpoint)"
+authors:
+  - name: "VRET contributors"
+version: 0.2.0
+repository-code: "https://github.com/Gaijin-01/VRET"
+url: "https://github.com/Gaijin-01/VRET"
+date-released: 2026-11-02
+license: MIT
+abstract: >-
+  VRET CLI and its immutable CUDA/GPU checkpoint, version 0.2.0. A
+  standard-library command line front end that re-verifies a hash-pinned
+  checkpoint against its bundled receipts and drives the strict, bulk and
+  pipelined CUDA execution paths. Published with the checkpoint included, so
+  the reported screening throughput and physical-equivalence results can be
+  reproduced from the installed artifact. The correctness oracle is the CPU
+  evaluator; GPU results are compared against it bitwise. Not a production
+  service and not a stable SDK, and not a claim about any cryptographic
+  circuit: the checkpoint's cryptography is SHA-256 prefix matching only.

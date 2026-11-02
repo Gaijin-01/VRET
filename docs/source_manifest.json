@@ -1,0 +1,243 @@
+{
+  "project": "vret-cli",
+  "version": "0.2.0",
+  "generated": "2026-11-02",
+  "note": "SHA-256 of every file shipped in the source distribution and in the repository tree.",
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "3409fa3d59ef094769dbf792da40279c0c36b526c67c41e23eda6a08fdc6a4ee",
+      "bytes": 55
+    },
+    {
+      "path": "CHANGELOG.md",
+      "sha256": "8d1797b4b09bb580dbb01f68de5486e2dcb448c9f58f7d724b1fe8271d104dd5",
+      "bytes": 5194
+    },
+    {
+      "path": "CITATION.cff",
+      "sha256": "519ce342df6bcfc10cf7accb72659cc9f2573837ae2f7c57514dd8f0d55f636b",
+      "bytes": 1048
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "45b316f3e1d0ce8306f514a7514ab7e5bbdb9f9b1683c4513edbfcf6055caccc",
+      "bytes": 1074
+    },
+    {
+      "path": "README.md",
+      "sha256": "c5ba58260099e6cb7ec8a8f2ddfa709dded1632ec3b516ec8beb8f494ff4971a",
+      "bytes": 11769
+    },
+    {
+      "path": "SECURITY.md",
+      "sha256": "1774c009d3b884b37e3eb2bde97d717a44948b50c173d347a558d3395c427e03",
+      "bytes": 2970
+    },
+    {
+      "path": "build_backend/vret_build.py",
+      "sha256": "a82ea7f3fc37c8319ae933d8a2977d768f71576d1f0e75fc3f1f4dffcc8230ad",
+      "bytes": 7204
+    },
+    {
+      "path": "docs/benchmark_receipt.md",
+      "sha256": "2d319c74727f6da67cc849f0ab42ca8995ff3e02626f6d0ee84c339266f2bbf0",
+      "bytes": 5164
+    },
+    {
+      "path": "docs/provenance.md",
+      "sha256": "faa177f3df6272a30ffc4887ed77fbdc6893b7fba14167104db60c9d248067ed",
+      "bytes": 5669
+    },
+    {
+      "path": "docs/release_acceptance.md",
+      "sha256": "4cbffca4b1b0c5e4fa642b32954cd2ac8f947c7948fcfa39b9463f6d012bf2d3",
+      "bytes": 8432
+    },
+    {
+      "path": "pyproject.toml",
+      "sha256": "4f83b7a544cc71b1b8aa4bd87c0c33f4799584e16de56bd7a1e8439003ee921e",
+      "bytes": 759
+    },
+    {
+      "path": "tests/test_runtime_semantics.py",
+      "sha256": "2e3f9697323d8a48cc240a541a4852ec7afde0c01515391755d8c73a1066e5cc",
+      "bytes": 4600
+    },
+    {
+      "path": "tests/test_vret_cli.py",
+      "sha256": "76d76ff9f36971ec302db3b930686b2ed2d16c66d4cec88271c6e06067bbaff4",
+      "bytes": 4248
+    },
+    {
+      "path": "vret_cli/VERSION",
+      "sha256": "1f930dd1f133c1f97a94fe3acb8db34372cf4c01ffdb2b3ff4ca72f9494121e9",
+      "bytes": 6
+    },
+    {
+      "path": "vret_cli/__init__.py",
+      "sha256": "e927ce0336574fead34fe0eaf110f266fe93379a84367d1ba87fbaa5bdf93841",
+      "bytes": 46
+    },
+    {
+      "path": "vret_cli/checkpoint/PHYSICAL_PIPELINE_REPORT.md",
+      "sha256": "29d9f6f337a35c09e11c807e31318f4eeca4315bd397482ffdbf2da4fdf4ffc9",
+      "bytes": 10299
+    },
+    {
+      "path": "vret_cli/checkpoint/PIPELINED_POLICY_V1.md",
+      "sha256": "e23f268334aab63bdabf24e2f2697d9f843ee32e01cf6f1c162172313cfe3e4d",
+      "bytes": 1993
+    },
+    {
+      "path": "vret_cli/checkpoint/batch_execution.py",
+      "sha256": "97013015b0a561491a6ee1bd468ab4a6d242e36a736539110699164c530b17ab",
+      "bytes": 14506
+    },
+    {
+      "path": "vret_cli/checkpoint/blind50_results.json",
+      "sha256": "228315097b8299954a3db7910b6508320e3bd4307a1ee295f56d2be3c3b69657",
+      "bytes": 9604
+    },
+    {
+      "path": "vret_cli/checkpoint/blind50_v0.py",
+      "sha256": "8f306d4944be2b86ea19b68d55674c802152c2710183e703e19bde18d7710d2b",
+      "bytes": 4607
+    },
+    {
+      "path": "vret_cli/checkpoint/cpu_gpu_equiv.py",
+      "sha256": "2072429b41c128c0e436071c8a7aad0bee722c6f6fae9c210c7e505d271d3dc7",
+      "bytes": 2822
+    },
+    {
+      "path": "vret_cli/checkpoint/cpu_shim/driver.cpp",
+      "sha256": "d3069278428d51182803ceb9ab790562072b8270e7afd4f1b41cbb2d39bda0fb",
+      "bytes": 923
+    },
+    {
+      "path": "vret_cli/checkpoint/cpu_shim/shim.h",
+      "sha256": "06fca98daa260c19ce4642377a0f0e5230461d1489ab06540db22441e086e1cd",
+      "bytes": 629
+    },
+    {
+      "path": "vret_cli/checkpoint/cuda_execution.py",
+      "sha256": "8b044355ecbca3e53dc39bd9dd25751bc451939482e026c9813079ab12215794",
+      "bytes": 9057
+    },
+    {
+      "path": "vret_cli/checkpoint/heldout_results.json",
+      "sha256": "b2b3ca2335565e75070b5138f28ae7cee2c6408144258462173d4c4c0cef2610",
+      "bytes": 3182
+    },
+    {
+      "path": "vret_cli/checkpoint/heldout_v1.py",
+      "sha256": "9bd5ff3938e5782c8f80c93a66481efcd99e2128dc1c31fc99fa49c41e95a0dd",
+      "bytes": 3462
+    },
+    {
+      "path": "vret_cli/checkpoint/invariants.md",
+      "sha256": "f63baee177648fc488610f039af62ad00a0ad0c141d83be1d23cb0efa752441a",
+      "bytes": 1441
+    },
+    {
+      "path": "vret_cli/checkpoint/loops/ratchet_rci_loop.py",
+      "sha256": "3581782b428d01b4f11d51f10e4db236e7b56d355b2066c32dce8fd2681fc003",
+      "bytes": 21712
+    },
+    {
+      "path": "vret_cli/checkpoint/original_manifest.json",
+      "sha256": "9be7cd82325d53aa5333ae85ff3df02e59d689897ddde8bbe3f35b9209872431",
+      "bytes": 1110
+    },
+    {
+      "path": "vret_cli/checkpoint/pipeline_execution.py",
+      "sha256": "14c14fe22b3243d40f754cafea1dcc736392665ad42f508654a90f88275b42de",
+      "bytes": 9994
+    },
+    {
+      "path": "vret_cli/checkpoint/probes/boundary_probes.py",
+      "sha256": "befae929dfab33d2e20795cc03fa629429bb4da5f55b4edc937fbf545e24203e",
+      "bytes": 1069
+    },
+    {
+      "path": "vret_cli/checkpoint/receipts/acceptance.json",
+      "sha256": "52d0bea53a15b1729fac4870594018988d7ebc95f931d109801c3fdf6a920507",
+      "bytes": 1132
+    },
+    {
+      "path": "vret_cli/checkpoint/receipts/fresh-2026-10-31/REDACTIONS.md",
+      "sha256": "2d98aab39a01392e275133623a5133731c44cb236a0ad1b44466ed8bf4b1b439",
+      "bytes": 409
+    },
+    {
+      "path": "vret_cli/checkpoint/receipts/fresh-2026-10-31/batched_equivalence_cuda.json",
+      "sha256": "88000c6dc102f33fc80e3834fd12f4a7151708c25d5a6cbe416ee00662de990e",
+      "bytes": 135389
+    },
+    {
+      "path": "vret_cli/checkpoint/receipts/fresh-2026-10-31/benchmark.json",
+      "sha256": "26b04be70ef487c984263b62f7bc5e1d9871df1b78616dd2c208f2deadb280be",
+      "bytes": 276922
+    },
+    {
+      "path": "vret_cli/checkpoint/receipts/fresh-2026-10-31/equivalence.json",
+      "sha256": "b7132d1203db61d5eec4f68b8e498cb0e988a24838d073596638440deab6eea7",
+      "bytes": 45028
+    },
+    {
+      "path": "vret_cli/checkpoint/receipts/fresh-2026-10-31/pipeline_ab.json",
+      "sha256": "47d54b11f2a3718389b536103888f1c430966aebd2722db337708f75bf410534",
+      "bytes": 223994
+    },
+    {
+      "path": "vret_cli/checkpoint/receipts/pipeline_ab.json",
+      "sha256": "fa2c3a4f4236599ba61e333b05fb969f49ef15b06daae4eb092ba0f8fe1a636b",
+      "bytes": 223019
+    },
+    {
+      "path": "vret_cli/checkpoint/receipts/pipeline_equivalence_cuda.json",
+      "sha256": "dc5d83b77ef303eeb28ab96a18244b525972e0c02d815a73cc44091247b4761e",
+      "bytes": 459485
+    },
+    {
+      "path": "vret_cli/checkpoint/results.jsonl",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "vret_cli/checkpoint/schemas/circuit_state.json",
+      "sha256": "d3ff6570fa355604720b7092a41b3ca1132736fb06c40231722febaa8e837ec0",
+      "bytes": 540
+    },
+    {
+      "path": "vret_cli/checkpoint/sha256_batch.cu",
+      "sha256": "ab46066673281841ff943264e99476171012471ac888d5f88ae88919983f95a2",
+      "bytes": 5596
+    },
+    {
+      "path": "vret_cli/checkpoint/sha256_device.cu",
+      "sha256": "326916e372bd94aa24c074e48f3249ba9e45f130946c399d58dad9e59f42d303",
+      "bytes": 2081
+    },
+    {
+      "path": "vret_cli/checkpoint/unseen_holdout.json",
+      "sha256": "50004bcaee6b9af8d50f67267dc0dfc9317974136fba8ae728e64ff78ae76a4c",
+      "bytes": 3472
+    },
+    {
+      "path": "vret_cli/checkpoint/unseen_holdout.py",
+      "sha256": "a1929f99444baef1aa1924183d92b8b2e1e51cbc8e25b9c1e44860a5e8e6cd07",
+      "bytes": 3050
+    },
+    {
+      "path": "vret_cli/cli.py",
+      "sha256": "1cae183bbce5f7a50b258db837b32cf830641681436498b11e24bb8ff80a6735",
+      "bytes": 10033
+    },
+    {
+      "path": "vret_cli/py.typed",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    }
+  ]
+}

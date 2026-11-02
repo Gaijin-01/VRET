@@ -1,0 +1,142 @@
+[
+  {
+    "episode": "heldout_000",
+    "true_family": "timestamp",
+    "outcome": "PASS",
+    "kept": true,
+    "family_discovered": "union_of_surviving:t"
+  },
+  {
+    "episode": "heldout_001",
+    "true_family": "counter",
+    "outcome": "PASS",
+    "kept": true,
+    "family_discovered": "union_of_surviving:c"
+  },
+  {
+    "episode": "heldout_002",
+    "true_family": "modulo",
+    "outcome": "PASS",
+    "kept": true,
+    "family_discovered": "union_of_surviving:c"
+  },
+  {
+    "episode": "heldout_003",
+    "true_family": "no_reduction",
+    "outcome": "discovery_falsified",
+    "kept": false,
+    "family_discovered": null
+  },
+  {
+    "episode": "heldout_004",
+    "true_family": "timestamp",
+    "outcome": "PASS",
+    "kept": true,
+    "family_discovered": "union_of_surviving:t"
+  },
+  {
+    "episode": "heldout_005",
+    "true_family": "counter",
+    "outcome": "PASS",
+    "kept": true,
+    "family_discovered": "union_of_surviving:c"
+  },
+  {
+    "episode": "heldout_006",
+    "true_family": "modulo",
+    "outcome": "PASS",
+    "kept": true,
+    "family_discovered": "union_of_surviving:c"
+  },
+  {
+    "episode": "heldout_007",
+    "true_family": "no_reduction",
+    "outcome": "discovery_falsified",
+    "kept": false,
+    "family_discovered": null
+  },
+  {
+    "episode": "heldout_008",
+    "true_family": "timestamp",
+    "outcome": "PASS",
+    "kept": true,
+    "family_discovered": "union_of_surviving:t"
+  },
+  {
+    "episode": "heldout_009",
+    "true_family": "counter",
+    "outcome": "PASS",
+    "kept": true,
+    "family_discovered": "union_of_surviving:c"
+  },
+  {
+    "episode": "heldout_010",
+    "true_family": "modulo",
+    "outcome": "PASS",
+    "kept": true,
+    "family_discovered": "union_of_surviving:c"
+  },
+  {
+    "episode": "heldout_011",
+    "true_family": "no_reduction",
+    "outcome": "discovery_falsified",
+    "kept": false,
+    "family_discovered": null
+  },
+  {
+    "episode": "heldout_012",
+    "true_family": "timestamp",
+    "outcome": "PASS",
+    "kept": true,
+    "family_discovered": "union_of_surviving:t"
+  },
+  {
+    "episode": "heldout_013",
+    "true_family": "counter",
+    "outcome": "PASS",
+    "kept": true,
+    "family_discovered": "union_of_surviving:c"
+  },
+  {
+    "episode": "heldout_014",
+    "true_family": "modulo",
+    "outcome": "PASS",
+    "kept": true,
+    "family_discovered": "union_of_surviving:c"
+  },
+  {
+    "episode": "heldout_015",
+    "true_family": "no_reduction",
+    "outcome": "discovery_falsified",
+    "kept": false,
+    "family_discovered": null
+  },
+  {
+    "episode": "heldout_016",
+    "true_family": "timestamp",
+    "outcome": "PASS",
+    "kept": true,
+    "family_discovered": "union_of_surviving:t"
+  },
+  {
+    "episode": "heldout_017",
+    "true_family": "counter",
+    "outcome": "PASS",
+    "kept": true,
+    "family_discovered": "union_of_surviving:c"
+  },
+  {
+    "episode": "heldout_018",
+    "true_family": "modulo",
+    "outcome": "PASS",
+    "kept": true,
+    "family_discovered": "union_of_surviving:c"
+  },
+  {
+    "episode": "heldout_019",
+    "true_family": "no_reduction",
+    "outcome": "discovery_falsified",
+    "kept": false,
+    "family_discovered": null
+  }
+]

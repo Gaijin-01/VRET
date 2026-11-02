@@ -1,0 +1,29 @@
+{
+  "PIPELINED_POLICY_V1": "PASS",
+  "PIPELINE_EQUIVALENCE": 0,
+  "BEST_NONPIPE_CAND_S": 12782993.914700652,
+  "BEST_PIPE_CAND_S": 13959719.146732882,
+  "PIPE_SPEEDUP_VS_BEST_NONPIPE": 1.092053961684123,
+  "PIPE_SPEEDUP_VS_CPU": 11.621629427596186,
+  "PREFETCH_MAX_ADVANCE": "1 prepared batch, <=262144 candidates in measured runs",
+  "HISTORICAL_SPEEDUP": 1.1040798130820488,
+  "NONPIPE_B65536_MS": 85.18917299807072,
+  "PIPE_B65536_MS": 79.34344400564441,
+  "NONPIPE_B262144_MS": 78.2289349954226,
+  "PIPE_B262144_MS": 71.63467899954412,
+  "ACCEPT_PIPELINE": true,
+  "GPU_UTIL": {
+    "mean": 11.88888888888889,
+    "max": 15.0
+  },
+  "POWER_PEAK": 22.49,
+  "TEMP_PEAK": 39.4,
+  "VRAM_PEAK": 7485.0,
+  "telemetry_scope": "all pipeline-tagged A/B, profiling and sustained phases; whole-device sensors",
+  "verified_tree": "<UPSTREAM_IMPORT>/agent-tooling-blueprints",
+  "reference_files_unchanged": 37,
+  "frozen_originals_unchanged": 12,
+  "decision": "ACCEPT opt-in pipeline=True for large batches; reference pipeline=False retained unchanged",
+  "streams_implemented": false,
+  "device_candidate_generation_implemented": false
+}

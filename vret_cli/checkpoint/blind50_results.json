@@ -1,0 +1,452 @@
+[
+  {
+    "episode": "timestamp_00",
+    "family": "timestamp",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 90,
+    "reduction_ratio": 36709122.18803419
+  },
+  {
+    "episode": "timestamp_01",
+    "family": "timestamp",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 90,
+    "reduction_ratio": 36709122.18803419
+  },
+  {
+    "episode": "timestamp_02",
+    "family": "timestamp",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 90,
+    "reduction_ratio": 36709122.18803419
+  },
+  {
+    "episode": "timestamp_03",
+    "family": "timestamp",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 90,
+    "reduction_ratio": 36709122.18803419
+  },
+  {
+    "episode": "timestamp_04",
+    "family": "timestamp",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 90,
+    "reduction_ratio": 36709122.18803419
+  },
+  {
+    "episode": "timestamp_05",
+    "family": "timestamp",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 90,
+    "reduction_ratio": 36709122.18803419
+  },
+  {
+    "episode": "timestamp_06",
+    "family": "timestamp",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 90,
+    "reduction_ratio": 36709122.18803419
+  },
+  {
+    "episode": "timestamp_07",
+    "family": "timestamp",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 90,
+    "reduction_ratio": 36709122.18803419
+  },
+  {
+    "episode": "counter_00",
+    "family": "counter",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 6,
+    "reduction_ratio": 195225786.1818182
+  },
+  {
+    "episode": "counter_01",
+    "family": "counter",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 6,
+    "reduction_ratio": 195225786.1818182
+  },
+  {
+    "episode": "counter_02",
+    "family": "counter",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 6,
+    "reduction_ratio": 195225786.1818182
+  },
+  {
+    "episode": "counter_03",
+    "family": "counter",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 6,
+    "reduction_ratio": 195225786.1818182
+  },
+  {
+    "episode": "counter_04",
+    "family": "counter",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 6,
+    "reduction_ratio": 195225786.1818182
+  },
+  {
+    "episode": "counter_05",
+    "family": "counter",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 6,
+    "reduction_ratio": 195225786.1818182
+  },
+  {
+    "episode": "counter_06",
+    "family": "counter",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 6,
+    "reduction_ratio": 195225786.1818182
+  },
+  {
+    "episode": "counter_07",
+    "family": "counter",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 6,
+    "reduction_ratio": 195225786.1818182
+  },
+  {
+    "episode": "truncation_00",
+    "family": "truncation",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 6,
+    "reduction_ratio": 65514.007382775555
+  },
+  {
+    "episode": "truncation_01",
+    "family": "truncation",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 6,
+    "reduction_ratio": 65514.007382775555
+  },
+  {
+    "episode": "truncation_02",
+    "family": "truncation",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 6,
+    "reduction_ratio": 65514.007382775555
+  },
+  {
+    "episode": "truncation_03",
+    "family": "truncation",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 6,
+    "reduction_ratio": 65514.007382775555
+  },
+  {
+    "episode": "truncation_04",
+    "family": "truncation",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 6,
+    "reduction_ratio": 65005.33208215405
+  },
+  {
+    "episode": "truncation_05",
+    "family": "truncation",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 6,
+    "reduction_ratio": 65514.007382775555
+  },
+  {
+    "episode": "truncation_06",
+    "family": "truncation",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 6,
+    "reduction_ratio": 65514.007382775555
+  },
+  {
+    "episode": "truncation_07",
+    "family": "truncation",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 6,
+    "reduction_ratio": 65514.007382775555
+  },
+  {
+    "episode": "modulo_00",
+    "family": "modulo",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 6,
+    "reduction_ratio": 1884584.1579640193
+  },
+  {
+    "episode": "modulo_01",
+    "family": "modulo",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 6,
+    "reduction_ratio": 2123068.361838853
+  },
+  {
+    "episode": "modulo_02",
+    "family": "modulo",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 6,
+    "reduction_ratio": 2123068.361838853
+  },
+  {
+    "episode": "modulo_03",
+    "family": "modulo",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 6,
+    "reduction_ratio": 2123068.361838853
+  },
+  {
+    "episode": "modulo_04",
+    "family": "modulo",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 6,
+    "reduction_ratio": 2123068.361838853
+  },
+  {
+    "episode": "modulo_05",
+    "family": "modulo",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 6,
+    "reduction_ratio": 2123068.361838853
+  },
+  {
+    "episode": "prefix_00",
+    "family": "prefix",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 6,
+    "reduction_ratio": 130150524.12121212
+  },
+  {
+    "episode": "prefix_01",
+    "family": "prefix",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 6,
+    "reduction_ratio": 130150524.12121212
+  },
+  {
+    "episode": "prefix_02",
+    "family": "prefix",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 6,
+    "reduction_ratio": 130150524.12121212
+  },
+  {
+    "episode": "prefix_03",
+    "family": "prefix",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 6,
+    "reduction_ratio": 130150524.12121212
+  },
+  {
+    "episode": "prefix_04",
+    "family": "prefix",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 6,
+    "reduction_ratio": 130150524.12121212
+  },
+  {
+    "episode": "prefix_05",
+    "family": "prefix",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 6,
+    "reduction_ratio": 130150524.12121212
+  },
+  {
+    "episode": "affine_00",
+    "family": "affine",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 6,
+    "reduction_ratio": 195225786.1818182
+  },
+  {
+    "episode": "affine_01",
+    "family": "affine",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 6,
+    "reduction_ratio": 195225786.1818182
+  },
+  {
+    "episode": "affine_02",
+    "family": "affine",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 6,
+    "reduction_ratio": 195225786.1818182
+  },
+  {
+    "episode": "affine_03",
+    "family": "affine",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 6,
+    "reduction_ratio": 195225786.1818182
+  },
+  {
+    "episode": "affine_04",
+    "family": "affine",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 6,
+    "reduction_ratio": 195225786.1818182
+  },
+  {
+    "episode": "affine_05",
+    "family": "affine",
+    "outcome": "PASS",
+    "kept": true,
+    "coverage": true,
+    "eval_count": 6,
+    "reduction_ratio": 195225786.1818182
+  },
+  {
+    "episode": "no_reduction_00",
+    "family": "no_reduction",
+    "outcome": "discovery_falsified",
+    "kept": false,
+    "coverage": false,
+    "eval_count": null,
+    "reduction_ratio": null
+  },
+  {
+    "episode": "no_reduction_01",
+    "family": "no_reduction",
+    "outcome": "discovery_falsified",
+    "kept": false,
+    "coverage": false,
+    "eval_count": null,
+    "reduction_ratio": null
+  },
+  {
+    "episode": "no_reduction_02",
+    "family": "no_reduction",
+    "outcome": "discovery_falsified",
+    "kept": false,
+    "coverage": false,
+    "eval_count": null,
+    "reduction_ratio": null
+  },
+  {
+    "episode": "no_reduction_03",
+    "family": "no_reduction",
+    "outcome": "discovery_falsified",
+    "kept": false,
+    "coverage": false,
+    "eval_count": null,
+    "reduction_ratio": null
+  },
+  {
+    "episode": "no_reduction_04",
+    "family": "no_reduction",
+    "outcome": "discovery_falsified",
+    "kept": false,
+    "coverage": false,
+    "eval_count": null,
+    "reduction_ratio": null
+  },
+  {
+    "episode": "no_reduction_05",
+    "family": "no_reduction",
+    "outcome": "discovery_falsified",
+    "kept": false,
+    "coverage": false,
+    "eval_count": null,
+    "reduction_ratio": null
+  },
+  {
+    "episode": "no_reduction_06",
+    "family": "no_reduction",
+    "outcome": "discovery_falsified",
+    "kept": false,
+    "coverage": false,
+    "eval_count": null,
+    "reduction_ratio": null
+  },
+  {
+    "episode": "no_reduction_07",
+    "family": "no_reduction",
+    "outcome": "discovery_falsified",
+    "kept": false,
+    "coverage": false,
+    "eval_count": null,
+    "reduction_ratio": null
+  }
+]
